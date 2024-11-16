@@ -15,4 +15,12 @@ Gehe in Sabiotrade Browser oder Desktop App auf:
 
 dann dort auf Scripts oben rechts (nicht links)
 
-Dort dann auf Add Manualy
+Dort dann auf "Import script" und wählt die Lua Datei aus
+
+und Klickt dann auf Save
+![grafik](https://github.com/user-attachments/assets/6a79457c-8594-40be-a3fc-d43be83158f2)
+
+
+Dann findet Ihr die Indikatoren unter "INDICATORS/Scripts"
+
+![grafik](https://github.com/user-attachments/assets/0b9cecb5-ed76-488f-84f4-02d8a50f9391)
